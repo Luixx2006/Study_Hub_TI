@@ -80,27 +80,41 @@ Organização das Pastas
 
 Diretório destinado às informações relacionadas à minha apresentação acadêmica e profissional.
 
+
+
 02_Disciplinas_Atuais
 
 Diretório responsável por organizar os conteúdos das disciplinas cursadas atualmente.
+
 Cada disciplina poderá possuir sua própria estrutura de pastas para atividades, entregas, anotações e materiais de estudo.
+
+
 
 Bootcamp I
 
 Diretório referente à disciplina Bootcamp I.
+
 Sua organização é dividida em:
 Atividades_e_Entregas: atividades e trabalhos desenvolvidos durante a disciplina;
 Anotacoes_e_Resumos: anotações, resumos e materiais utilizados durante os estudos.
+
+
 
 03_Projetos_e_Certificados
 
 Diretório destinado ao armazenamento dos projetos desenvolvidos durante minha formação e dos certificados obtidos em cursos, eventos e atividades complementares.
 
+
+
 Evolução do Study Hub
 
 Este repositório será atualizado continuamente durante minha trajetória acadêmica.
+
 À medida que novas disciplinas, projetos e experiências forem desenvolvidos, novas pastas e conteúdos serão adicionados mantendo o padrão de organização estabelecido inicialmente.
+
 Dessa forma, o Study Hub poderá representar de maneira organizada a evolução dos meus conhecimentos e habilidades ao longo da graduação.
+
+
 
 
 Autor
